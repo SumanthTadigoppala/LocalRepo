@@ -1,2 +1,1 @@
 This is a new repo starting at local side and pushing to remote side.
-This is my new feature.
